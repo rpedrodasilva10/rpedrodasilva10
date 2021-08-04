@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm currently leading a squad at [HDI Seguros](https://www.hdiseguros.com.br/) building API's and microservices in Java with Spring ecosystem.
-- 🌱 I’m currently learning cloud infrastructure, specifically Google Cloud Platform, focused on build, deploy and maintain applications in those environments.
+- 🌱 I’m currently learning cloud infrastructure, specifically Google Cloud Platform, focused on build, deploy and maintain applications in a Kubernetes environment.
 
 
  <div>
