@@ -1,8 +1,8 @@
-### Welcome ! 😎👋
+### Welcome! 😎👋
 
 
-- 🔭 I'm currently leading a squad at [HDI Seguros](https://www.hdiseguros.com.br/) building API's and microservices in Java with Spring's ecosystem.
-- 🌱 I’m currently learning cloud infrastructure, specifically Google Cloud Platform, focused on build, deploy and maintain applications in a Kubernetes environment.
+- 🔭 I'm currently working as a Senior Software Engineer at [Mercado Livre](https://www.hdiseguros.com.br/) building scalable, resilient, high-traffic microservices using mostly Java and Golang.
+- 🌱 Learning a lot with Golang, improving my Software Architecture and System Design skills, especially in distributed systems.
 
 
  <div>
@@ -19,6 +19,7 @@
   <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Renan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Renan-Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 </div>
   
   ##
